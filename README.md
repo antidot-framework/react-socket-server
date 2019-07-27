@@ -1,5 +1,10 @@
 # Antidot React PHP Socket Server
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/antidot-framework/react-socket-server/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/react-socket-server/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/antidot-framework/react-socket-server/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/react-socket-server/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/antidot-framework/react-socket-server/badges/build.png?b=master)](https://scrutinizer-ci.com/g/antidot-framework/react-socket-server/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/antidot-framework/react-socket-server/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+
 Adapter that allows running a [WAMP protocol](https://wamp-proto.org) [socket server](http://socketo.me/docs/wamp) in 
 [Antidot Framework Applications](https://github.com/antidot-framework/antidot-starter).
 
